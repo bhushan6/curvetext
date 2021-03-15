@@ -1,0 +1,17 @@
+{
+  "name": "curvetext",
+  "version": "1.0.0",
+  "description": "Javascript package to create curve text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "round text",
+    "circular text",
+    "curve text"
+  ],
+  "author": "Bhushan Wagh",
+  "license": "ISC"
+}
