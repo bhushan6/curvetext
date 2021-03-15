@@ -1,6 +1,6 @@
 {
   "name": "curvetext",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Javascript package to create curve text.",
   "main": "index.js",
   "scripts": {

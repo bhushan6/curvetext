@@ -17,7 +17,7 @@ const curveText = (option) => {
 
     const diameter = option.radius* 2;
 
-    option.style.position = 'relative'
+    // option.style.position = 'relative'
     option.style.transform = 'rotate(-90deg)'
     option.element.style.width = `${diameter}px`;
     option.element.style.height = `${diameter}px`;
